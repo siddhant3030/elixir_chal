@@ -1,4 +1,4 @@
-defmodule Scripbox.MongoFile do
+defmodule ElixirAlgo.MongoFile do
   require Logger
 
   def create_record(key) do
