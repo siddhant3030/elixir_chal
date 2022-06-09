@@ -14,7 +14,6 @@
 * In the iex compile the cli.ex file through this c("cli.ex")
 * Then start calling the functions
 
-
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
